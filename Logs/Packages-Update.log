@@ -16,3 +16,16 @@ The following packages were updated:
   com.unity.collab-proxy from version 1.2.9 to 1.2.16
   com.unity.textmeshpro from version 2.0.0 to 2.0.1
   com.unity.timeline from version 0.0.0-builtin to 1.1.0
+
+=== Wed Jul  1 15:07:12 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 更新済:
+  com.unity.ide.rider をバージョン 1.0.8 から 1.1.4 へ
+  com.unity.ide.vscode をバージョン 1.0.7 から 1.2.1 へ
+  com.unity.test-framework をバージョン 1.0.13 から 1.1.14 へ
+  com.unity.timeline をバージョン 1.1.0 から 1.2.6 へ
+The following packages were 削除済:
+  com.unity.package-manager-ui@2.2.0
